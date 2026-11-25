@@ -10,9 +10,9 @@ Entry for the [Have You Tried Turning It Off?](https://make.fun/c/u-motasimfuad-
 
 `main.ts` writes one funny single-line reply from a hopeless tech support agent to a desperate customer, to `/output/entry.txt`:
 
-> I hear you, and I promise we're going to fix this — step one is turning it off and on again, step two is me quietly Googling your exact problem.
+> I hear you, and I promise we're going to fix this — step one is turning it off and on again, step two is me quietly Googling your exact problem and reading you the first result.
 
-The joke leans on the classic turn-it-off-and-on-again, then twists it: the agent opens with a real support agent's reassurance, and the punchline is that their actual troubleshooting skill is quietly Googling the customer's exact problem. The humour comes from the agent's cheerful uselessness — never from the customer.
+The joke leans on the classic turn-it-off-and-on-again, then twists it: the agent opens with a real support agent's reassurance, and the punchline is that their actual troubleshooting skill is quietly Googling the customer's exact problem — and reading out the first result, without even picking a good one. The humour comes from the agent's cheerful uselessness — never from the customer.
 
 ## How it works
 

@@ -11,12 +11,13 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // The line, chosen for the judge's brief: a real agent's reassurance up
 // front ("I hear you, and I promise we're going to fix this"), the classic
 // turn-it-off-and-on-again as step one, and the twist as step two — the
-// agent's actual skill is quietly Googling the customer's exact problem.
+// agent's actual skill is quietly Googling the customer's exact problem
+// and reading them the first result, without even picking a good one.
 // The humour comes from the agent's cheerful uselessness, never from the
 // customer, and the customer's desperation is felt in the opening promise
 // rather than explained.
 const LINE =
-  "I hear you, and I promise we're going to fix this — step one is turning it off and on again, step two is me quietly Googling your exact problem.";
+  "I hear you, and I promise we're going to fix this — step one is turning it off and on again, step two is me quietly Googling your exact problem and reading you the first result.";
 
 // The gate: /output/entry.txt must be UTF-8 text of 1 to 199 characters,
 // not only white space.
